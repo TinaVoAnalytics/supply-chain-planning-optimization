@@ -4,7 +4,7 @@ This folder contains six Databricks notebooks documenting the end-to-end analyti
 
 The notebooks demonstrate how manufacturing S&OP planning data was ingested, transformed, validated, modeled, and analyzed using **Databricks, PySpark, SQL, and Python optimization**.
 
-## ⚙️ Notebook Workflow
+## ⚙️ Notebook Workflow 
 
 | Notebook | Purpose |
 |---|---|
