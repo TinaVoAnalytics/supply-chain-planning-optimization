@@ -1,6 +1,6 @@
 # 📈 Business Analysis Presentation
 
-**Project #4 — Supply Chain Planning & Operations Intelligence**
+**Project #4 — Supply Chain Planning & Operations Intelligence** 
 
 This presentation communicates the key findings, operational risks, optimization trade-offs, and management recommendations from an end-to-end manufacturing S&OP planning analytics project.
 
