@@ -172,7 +172,7 @@ Compares **Min Processing, Min Overtime, and Threshold Capacity** to evaluate pr
 
 ### 🎥 Dashboard Walkthrough
 
-**▶️ Watch Dashboard Walkthrough on YouTube** — Add video URL when available.
+▶️ **[Watch Dashboard Walkthrough on YouTube](https://youtu.be/kEhXbw9GKmU)**
 
 The walkthrough demonstrates dashboard navigation, analytical insights, interactive features, and management decision-support applications.
 
