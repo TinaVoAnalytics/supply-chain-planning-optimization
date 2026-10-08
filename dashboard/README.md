@@ -8,7 +8,7 @@ This folder contains four Power BI dashboard screenshots and two data-model scre
 
 ![Executive S&OP Overview](01_Executive_S%26OP_Overview.png)
 
-Monitors planned demand, modeled fulfillment, processing hours, implied overtime, and planning trends.
+Monitors planned demand, modeled fulfillment, processing hours, implied overtime, and planning trends. 
 
 ### 2. Capacity & Bottlenecks
 
